@@ -1,5 +1,5 @@
 ### Oiii! 👋
-🎓 ADS 1/5
+- 🎓 ADS 1/5
 Estudando: 
   -🐍 Python
   -🎮 GML
