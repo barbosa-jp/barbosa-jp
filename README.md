@@ -1,6 +1,6 @@
 ### Oiii! 👋
--🎓 ADS 1/5
-- Estudando: 
+🎓 ADS 1/5
+Estudando: 
   -🐍 Python
   -🎮 GML
 
