@@ -2,7 +2,6 @@
 🎓 ADS 1/5
 - Estudando: 
   🐍 Python
-  👍 Portugol
 
 
 
