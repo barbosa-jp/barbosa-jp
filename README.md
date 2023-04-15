@@ -1,6 +1,8 @@
 ### Oiii! 👋
-
--🐍 Estudando Python
+🎓 ADS 1/5
+- Estudando: 
+  🐍 Python
+  👍 Portugol
 
 
 
