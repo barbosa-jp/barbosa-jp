@@ -1,13 +1,13 @@
-### Oiii! 👋
+### ✨Prazer! Nice to meet you!
+<h4>Português:</h4>
+<p>Sou um programado iniciante, mais focado ao desenvolvimento Web. Sou técnico de Informática pelo IFPI e graduando em Análise e Desenvolvimento de Sistemas pela mesma instituição.     Aprecio muito a parte visual do desenvolvimento. Por isso, foquei bastante meus estudos em HTML, CSS e em JavaScript.</p>
 
-🎓 ADS 3/5<br>
-💫 Frontend
+<h4>English:</h4>
+<p>I'm a starter programmer, more focused on Web development. I'm IT technician by IFPI and studing Sistem Analysis and Development by the same instituition. I like the visual part of development so much. For this cause, I focused my studies a lot on HTML, CSS and JavaScript.</p>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&username=barbosa-jp&bg_color=00000000&theme=cobalt&text_color=ffffff&locale=pt-br&&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+### 📊Estatos | Stats...
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbosa-jp&bg_color=00000000&text_color=ffffff&border_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
-##
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbosa-jp&bg_color=00000000&text_color=ffffff&border_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
