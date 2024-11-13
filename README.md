@@ -19,4 +19,18 @@
 
 ### 📊Estatos | Stats
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbosa-jp&bg_color=00000000&text_color=ffffff&border_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+<div align='center' style='display: inline-block'>
+  <div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbosa-jp&bg_color=00000000&text_color=ffffff&border_color=00000000&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
+  <div>
+
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
+
+  
+</div>
+
