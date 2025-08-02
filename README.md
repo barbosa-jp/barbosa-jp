@@ -1,6 +1,6 @@
 <h1 align='center'>✨Prazer! Nice to meet you!✨</h1> 
 
-### 🖖Saudações | Greetings
+## 🖖Saudações | Greetings
 <h4>Português:</h4>
 <p>Sou um programado iniciante, mais focado ao desenvolvimento Web. Sou técnico de Informática pelo IFPI e graduando em Análise e Desenvolvimento de Sistemas pela mesma instituição.     Aprecio muito a parte visual do desenvolvimento. Por isso, foquei bastante meus estudos em HTML, CSS e em JavaScript.</p>
 
@@ -17,7 +17,7 @@
   <img align="center" alt="Joao-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
-### 📊Estatos | Stats
+## 📊Estatos | Stats
 
 <div align='center' style='display: inline-block'>
   <div>
@@ -25,11 +25,14 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barbosa-jp&bg_color=00000000&text_color=ffffff&border_color=00000000&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
-  <div>
+</div>
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+## 📱Contato | Contact 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-barbosa-781040288/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://instagram.com/dev_joaopedro/)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/barbosa-jp)
+[![GitHub](https://img.shields.io/badge/DIO-222?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/info_joaopedrobarbosa)
 
-  </div>
 
   
 </div>
